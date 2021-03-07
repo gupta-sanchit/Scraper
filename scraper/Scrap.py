@@ -25,13 +25,17 @@ class Scraper:
         productContainer = self.soup.findAll('div', class_='product')
         resPage = {}
         for one in productContainer:
-            price = one.find('span', class_='price').text
-            name = one.find('div', class_='product-description').a.text
-            productID = one.find('span', class_='product-id').text
-            status = one.find('span', class_='status').text
-            brand = one.find('a', class_='catalog-item-brand').text
+            div1 = one.find('div', class_='product-description')
+            div2 = one.find('div', class_='catalog-item-price')
 
-            perPiece = one.find('div', style='float: left')
+            productID = div1.find('span', class_='product-id').text
+            name = div1.a.text
+            brand = div1.find('a', class_='catalog-item-brand').text
+
+            price = div2.find('span', class_='price').text
+            status = div2.find('span', class_='status').text
+
+            perPiece = div2.find('div', style='float: left')
             perPiece = perPiece.text.split(" ")[0] if perPiece else 'NA'
 
             r = {
