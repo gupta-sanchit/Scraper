@@ -10,6 +10,7 @@ class Scraper:
         self.res = {}
         self.pageCount = 1
         self.url = 'https://www.midsouthshooterssupply.com/dept/reloading/primers'
+        self.count = 0
 
         self.headers = {"Accept-Language": "en-US, en;q=0.5"}
         res = requests.get(self.url, headers=self.headers)
@@ -33,10 +34,11 @@ class Scraper:
             brand = div1.find('a', class_='catalog-item-brand').text
 
             price = div2.find('span', class_='price').text
+            price = float(price[1:])
             status = div2.find('span', class_='status').text
 
             perPiece = div2.find('div', style='float: left')
-            perPiece = perPiece.text.split(" ")[0] if perPiece else 'NA'
+            perPiece = float(perPiece.text.split(" ")[0][1:]) if perPiece else 'NA'
 
             r = {
                 'product-id': productID,
@@ -47,6 +49,7 @@ class Scraper:
                 'status': status
             }
             resPage[productID] = r
+            self.count += 1
         return resPage
 
     def getRes(self):
@@ -58,6 +61,7 @@ class Scraper:
                 self.soup = BeautifulSoup(res.text, "lxml")
 
             self.res.update(self.scrapPage())
+        self.res['product-count'] = self.count
 
         return self.res
 

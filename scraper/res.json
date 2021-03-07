@@ -2,152 +2,152 @@
     "020-0011": {
         "brand": "CCI ",
         "name": "#200 Large Rifle Primer (1000 Count)",
-        "per-piece-price": "$0.04",
-        "price": "$40.75",
+        "per-piece-price": 0.04,
+        "price": 40.75,
         "product-id": "020-0011",
         "status": "Out of Stock"
     },
     "020-0015": {
         "brand": "CCI ",
         "name": "#250 Magnum Large Rifle Primer (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$44.95",
+        "per-piece-price": 0.05,
+        "price": 44.95,
         "product-id": "020-0015",
         "status": "Out of Stock"
     },
     "020-0016": {
         "brand": "CCI ",
         "name": "#350 Magnum Large Pistol Primer (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$44.95",
+        "per-piece-price": 0.05,
+        "price": 44.95,
         "product-id": "020-0016",
         "status": "Out of Stock"
     },
     "020-0017": {
         "brand": "CCI ",
         "name": "#450 Magnum Small Rifle Primer (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$44.95",
+        "per-piece-price": 0.05,
+        "price": 44.95,
         "product-id": "020-0017",
         "status": "Out of Stock"
     },
     "020-0018": {
         "brand": "CCI ",
         "name": "#550 Magnum Small Pistol Primer (1000 Count)",
-        "per-piece-price": "$0.04",
-        "price": "$40.75",
+        "per-piece-price": 0.04,
+        "price": 40.75,
         "product-id": "020-0018",
         "status": "Out of Stock"
     },
     "020-0019": {
         "brand": "CCI ",
         "name": "BR4 Small Rifle Bench Rest Primer (1000 Count)",
-        "per-piece-price": "$0.07",
-        "price": "$69.16",
+        "per-piece-price": 0.07,
+        "price": 69.16,
         "product-id": "020-0019",
         "status": "Out of Stock"
     },
     "020-0320": {
         "brand": "CCI ",
         "name": "#35 50 Caliber BMG Primer (500 Count)",
-        "per-piece-price": "$0.52",
-        "price": "$261.07",
+        "per-piece-price": 0.52,
+        "price": 261.07,
         "product-id": "020-0320",
         "status": "Out of Stock"
     },
     "050-22600": {
         "brand": "Remington",
         "name": "1 1/2 Small Pistol Primer (1000 Count)",
-        "per-piece-price": "$0.03",
-        "price": "$32.37",
+        "per-piece-price": 0.03,
+        "price": 32.37,
         "product-id": "050-22600",
         "status": "Out of Stock"
     },
     "050-22604": {
         "brand": "Remington",
         "name": "2 1/2 Large Pistol Primer (1000 Count)",
-        "per-piece-price": "$0.03",
-        "price": "$32.37",
+        "per-piece-price": 0.03,
+        "price": 32.37,
         "product-id": "050-22604",
         "status": "Out of Stock"
     },
     "050-22606": {
         "brand": "Remington",
         "name": "6 1/2 Small Rifle Primer (1000 Count)",
-        "per-piece-price": "$0.03",
-        "price": "$32.37",
+        "per-piece-price": 0.03,
+        "price": 32.37,
         "product-id": "050-22606",
         "status": "Out of Stock"
     },
     "050-22608": {
         "brand": "Remington",
         "name": "9 1/2 Large Rifle Primer (1000 Count)",
-        "per-piece-price": "$0.03",
-        "price": "$32.37",
+        "per-piece-price": 0.03,
+        "price": 32.37,
         "product-id": "050-22608",
         "status": "Out of Stock"
     },
     "050-22622": {
         "brand": "Remington",
         "name": "9 1/2 Magnum Large Rifle Primer (1000 Count)",
-        "per-piece-price": "$0.04",
-        "price": "$34.97",
+        "per-piece-price": 0.04,
+        "price": 34.97,
         "product-id": "050-22622",
         "status": "Out of Stock"
     },
     "050-22626": {
         "brand": "Remington",
         "name": "5 1/2 Small Mag Pistol Primer (1000 Count)",
-        "per-piece-price": "$0.03",
-        "price": "$32.37",
+        "per-piece-price": 0.03,
+        "price": 32.37,
         "product-id": "050-22626",
         "status": "Out of Stock"
     },
     "050-22628": {
         "brand": "Remington",
         "name": "7 1/2 Bench Rest Small Rifle Primer (1000 Count)",
-        "per-piece-price": "$0.03",
-        "price": "$32.37",
+        "per-piece-price": 0.03,
+        "price": 32.37,
         "product-id": "050-22628",
         "status": "Out of Stock"
     },
     "050-22661": {
         "brand": "Remington",
         "name": "209 Premier STS Shotshell Primer (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$49.79",
+        "per-piece-price": 0.05,
+        "price": 49.79,
         "product-id": "050-22661",
         "status": "Out of Stock"
     },
     "123-W209": {
         "brand": "Winchester",
         "name": "Winchester Shot Shell Primers 1000 Count",
-        "per-piece-price": "$0.03",
-        "price": "$32.99",
+        "per-piece-price": 0.03,
+        "price": 32.99,
         "product-id": "123-W209",
         "status": "Out of Stock"
     },
     "123-WLP": {
         "brand": "Winchester",
         "name": "Winchester Large Pistol Primers 1000 Count",
-        "per-piece-price": "$0.04",
-        "price": "$41.33",
+        "per-piece-price": 0.04,
+        "price": 41.33,
         "product-id": "123-WLP",
         "status": "Out of Stock"
     },
     "123-WLR": {
         "brand": "Winchester",
         "name": "Winchester Large Rifle Primers 1000 Count",
-        "per-piece-price": "$0.04",
-        "price": "$41.33",
+        "per-piece-price": 0.04,
+        "price": 41.33,
         "product-id": "123-WLR",
         "status": "Out of Stock"
     },
     "123-WLRM": {
         "brand": "Winchester",
         "name": "Winchester Magnum Large Rifle Primers 1000 Count",
-        "per-piece-price": "$0.05",
-        "price": "$45.53",
+        "per-piece-price": 0.05,
+        "price": 45.53,
         "product-id": "123-WLRM",
         "status": "Out of Stock"
     },
@@ -155,7 +155,7 @@
         "brand": "Winchester",
         "name": "Winchester USA Ready Match Large Pistol Primers 1000 Count",
         "per-piece-price": "NA",
-        "price": "$48.43",
+        "price": 48.43,
         "product-id": "123-WMGLP",
         "status": "Out of Stock"
     },
@@ -163,7 +163,7 @@
         "brand": "Winchester",
         "name": "Winchester USA Ready Match Large Rifle Primers 1000 Count",
         "per-piece-price": "NA",
-        "price": "$38.99",
+        "price": 38.99,
         "product-id": "123-WMGLR",
         "status": "Out of Stock"
     },
@@ -171,7 +171,7 @@
         "brand": "Winchester",
         "name": "Winchester USA Ready Match Small Pistol Primers 1000 Count",
         "per-piece-price": "NA",
-        "price": "$38.99",
+        "price": 38.99,
         "product-id": "123-WMGSP",
         "status": "Out of Stock"
     },
@@ -179,152 +179,153 @@
         "brand": "Winchester",
         "name": "Winchester USA Ready Match Small Rifle Primers 1000 Count",
         "per-piece-price": "NA",
-        "price": "$38.99",
+        "price": 38.99,
         "product-id": "123-WMGSR",
         "status": "Out of Stock"
     },
     "123-WSP": {
         "brand": "Winchester",
         "name": "Winchester Small Pistol Primers 1000 Count",
-        "per-piece-price": "$0.04",
-        "price": "$41.33",
+        "per-piece-price": 0.04,
+        "price": 41.33,
         "product-id": "123-WSP",
         "status": "Out of Stock"
     },
     "123-WSPM": {
         "brand": "Winchester",
         "name": "Winchester Small Pistol Magnum Primers 1000 Count",
-        "per-piece-price": "$0.04",
-        "price": "$41.33",
+        "per-piece-price": 0.04,
+        "price": 41.33,
         "product-id": "123-WSPM",
         "status": "Out of Stock"
     },
     "123-WSR": {
         "brand": "Winchester",
         "name": "Winchester Small Rifle Primers 1000 Count",
-        "per-piece-price": "$0.04",
-        "price": "$41.33",
+        "per-piece-price": 0.04,
+        "price": 41.33,
         "product-id": "123-WSR",
         "status": "Out of Stock"
     },
     "129-100": {
         "brand": "Federal ",
         "name": "Federal Small Pistol Primer #100 (1000 Count)",
-        "per-piece-price": "$0.04",
-        "price": "$41.91",
+        "per-piece-price": 0.04,
+        "price": 41.91,
         "product-id": "129-100",
         "status": "Out of Stock"
     },
     "129-150": {
         "brand": "Federal ",
         "name": "Large Pistol Primer #150 (1000 Count)",
-        "per-piece-price": "$0.04",
-        "price": "$41.91",
+        "per-piece-price": 0.04,
+        "price": 41.91,
         "product-id": "129-150",
         "status": "Out of Stock"
     },
     "129-155": {
         "brand": "Federal ",
         "name": "Magnum Large Pistol Primer #155 (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$46.26",
+        "per-piece-price": 0.05,
+        "price": 46.26,
         "product-id": "129-155",
         "status": "Out of Stock"
     },
     "129-200": {
         "brand": "Federal ",
         "name": "Magnum Small Pistol Primer #200 (1000 Count)",
-        "per-piece-price": "$0.04",
-        "price": "$41.91",
+        "per-piece-price": 0.04,
+        "price": 41.91,
         "product-id": "129-200",
         "status": "Out of Stock"
     },
     "129-205": {
         "brand": "Federal ",
         "name": "Small Rifle Primer #205 (1000 Count)",
-        "per-piece-price": "$0.04",
-        "price": "$41.91",
+        "per-piece-price": 0.04,
+        "price": 41.91,
         "product-id": "129-205",
         "status": "Out of Stock"
     },
     "129-209A": {
         "brand": "Federal ",
         "name": "209A Shotshell Primer 1000 Count",
-        "per-piece-price": "$0.04",
-        "price": "$36.54",
+        "per-piece-price": 0.04,
+        "price": 36.54,
         "product-id": "129-209A",
         "status": "Out of Stock"
     },
     "129-210": {
         "brand": "Federal ",
         "name": "Large Rifle Primer #210 (1000 Count)",
-        "per-piece-price": "$0.04",
-        "price": "$41.91",
+        "per-piece-price": 0.04,
+        "price": 41.91,
         "product-id": "129-210",
         "status": "Out of Stock"
     },
     "129-215": {
         "brand": "Federal ",
         "name": "Magnum Large Rifle Primer #215 (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$46.26",
+        "per-piece-price": 0.05,
+        "price": 46.26,
         "product-id": "129-215",
         "status": "Out of Stock"
     },
     "129-GM100M": {
         "brand": "Federal ",
         "name": "Gold Medal Small Pistol Match Primer #GM100M (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$48.14",
+        "per-piece-price": 0.05,
+        "price": 48.14,
         "product-id": "129-GM100M",
         "status": "Out of Stock"
     },
     "129-GM150M": {
         "brand": "Federal ",
         "name": "Gold Medal Large Pistol Match Primer #GM150M (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$48.14",
+        "per-piece-price": 0.05,
+        "price": 48.14,
         "product-id": "129-GM150M",
         "status": "Out of Stock"
     },
     "129-GM200M": {
         "brand": "Federal ",
         "name": "Gold Medal Magnum Small Pistol Match Primer #GM200M (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$48.14",
+        "per-piece-price": 0.05,
+        "price": 48.14,
         "product-id": "129-GM200M",
         "status": "Out of Stock"
     },
     "129-GM205M": {
         "brand": "Federal ",
         "name": "Gold Medal Small Rifle Match Primer #GM205M (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$48.14",
+        "per-piece-price": 0.05,
+        "price": 48.14,
         "product-id": "129-GM205M",
         "status": "Out of Stock"
     },
     "129-GM205MAR": {
         "brand": "Federal ",
         "name": "Gold Medal AR Match Small Rifle Primer #GM205MAR (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$48.14",
+        "per-piece-price": 0.05,
+        "price": 48.14,
         "product-id": "129-GM205MAR",
         "status": "Out of Stock"
     },
     "129-GM210M": {
         "brand": "Federal ",
         "name": "Gold Medal Large Rifle Match Primer #GM210M (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$48.14",
+        "per-piece-price": 0.05,
+        "price": 48.14,
         "product-id": "129-GM210M",
         "status": "Out of Stock"
     },
     "129-GM215M": {
         "brand": "Federal ",
         "name": "Gold Medal Magnum Large Rifle Match Primer #GM215M (1000 Count)",
-        "per-piece-price": "$0.05",
-        "price": "$52.64",
+        "per-piece-price": 0.05,
+        "price": 52.64,
         "product-id": "129-GM215M",
         "status": "Out of Stock"
-    }
+    },
+    "product-count": 41
 }
